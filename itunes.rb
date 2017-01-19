@@ -1,6 +1,4 @@
-#!/usr/bin/ruby -w
-# iTUNES
-# Copyright Mark Keane, All Rights Reserved, 2014
+
 
 #This is the top level
 require 'csv'
